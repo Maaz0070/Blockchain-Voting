@@ -11,7 +11,7 @@ The following functionality is completed:
 - [x] User can enter vote for a particualr candidate
 - [x] Block chain randmoizes hash rates and finds winnder for verifying a vote. 
 - [x] Interface is created for user to see all the nodes and the winning node.
-The following **additional** features are implemented:
+
 
 
 ##Image of user-inteface:
